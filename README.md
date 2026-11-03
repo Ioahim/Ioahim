@@ -41,7 +41,7 @@ Field-validated on **257 animals** (Spearman ρ = 0.965), technology readiness l
 Semantic segmentation of beef cattle carcass structures in ultrasound images, comparing **U-Net, UNet++, DeepLab v3+ and SegFormer**.
 Preliminary UNet++ results: **Dice 0.953** and **IoU 0.910** on the ribeye area.
 
-## [Fotoxopi](https://github.com/Ioahim/Fotoxopi)
+### [Fotoxopi](https://github.com/Ioahim/Fotoxopi)
 Desktop image editor built from scratch in **WPF (C#/.NET)** with intensity and geometric transformations, for an Image Processing course.
 
 ## Currently learning
